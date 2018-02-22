@@ -1,4 +1,4 @@
-const phkPromise = require('./phk-promise');
+const { phkPromise } = require('./phk-promise');
 
 const promise = new phkPromise((resolve, reject) => {
     setTimeout(resolve, 500);
