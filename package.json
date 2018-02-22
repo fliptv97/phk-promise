@@ -1,0 +1,9 @@
+{
+  "name": "phk-promise",
+  "version": "1.0.0",
+  "description": "Attempt to realization of basic promises for own understanding of their work",
+  "main": "index.js",
+  "repository": "https://github.com/fliptv97/phk-promise.git",
+  "author": "Philip Kazakov <fliptv97@gmail.com>",
+  "license": "MIT"
+}
